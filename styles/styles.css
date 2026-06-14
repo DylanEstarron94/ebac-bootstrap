@@ -1,0 +1,25 @@
+main {
+  padding: 1vh 12vw;
+}
+main .post {
+  padding: 30px 0;
+}
+main .post .user-data {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 0.5rem;
+}
+main .post .user-data .user-img img {
+  width: 50px;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+}
+main .post .user-data .user-name h3,
+main .post .user-data .user-name p {
+  margin: 0;
+}
+main .post .carousel img {
+  aspect-ratio: 1/1;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=styles.css.map */
