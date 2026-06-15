@@ -3,6 +3,7 @@ main {
 }
 main .post {
   padding: 30px 0;
+  max-width: 600px;
 }
 main .post .user-data {
   display: flex;
